@@ -1,8 +1,8 @@
 ---
-name: Report a gRPC Core bug
+name: Report a bug
 about: Create a report to help us improve
-labels: kind/bug, priority/P2, lang/core, untriaged
-assignees: yashykt
+labels: kind/bug, priority/P2
+assignees: nicolasnoble
 
 ---
 
